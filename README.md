@@ -15,7 +15,7 @@ Analyze the provided script and identify distinct functionalities that can be en
 
 **Code Example**: Before Refactoring:
 
-# Weather Forecast Application Script
+#### Weather Forecast Application Script
 
     def fetch_weather_data(city):
         # Simulated function to fetch weather data for a given city
